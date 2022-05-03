@@ -35,7 +35,7 @@ namespace SearchingAlgorithms
                     return mid;
             }
          
-            return -1; // If the value we are searching for isnt found return -1
+            return -1; // If the value we are searching for isn't found return -1
         }
     }
 }
